@@ -1,2 +1,2 @@
 # learn-golang
-no anything at here :)
+Repository to learn golang
